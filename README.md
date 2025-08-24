@@ -1,4 +1,4 @@
-# Talia (Natalia) McInnis
+# Talia McInnis
 
 **MS Bioinformatics & Computational Biology** · **Junior Analyst & Research Consultant**  
 I build AI and quality-improvement tools for healthcare, specializing in LLM evaluation systems, prompt engineering, and clinical informatics.
