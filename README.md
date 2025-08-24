@@ -12,7 +12,7 @@ I build AI and quality-improvement tools for healthcare, specializing in LLM eva
 - LLM evaluation pipelines for medical abstracts and posters  
 - Clinical QI tools (SMARTIE aims, driver diagrams, run/control charts, PDSA)  
 - Bioinformatics, computational biology, reproducible research workflows  
-- Python, Markdown, LaTeX, AvoMD, GitHub Actions  
+- Python, Markdown, LaTeX, AvoMD, GitHub Actions, OpenAI, Claude  
 
 ## Highlight Projects
 - **Internship Scoring Pipeline** – modular LLM evaluation system with 7 rubric criteria and consensus logic.  
